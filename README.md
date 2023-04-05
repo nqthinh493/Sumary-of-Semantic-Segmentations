@@ -1,4 +1,4 @@
-# Sumary of Semantic Segmentations
+# Summary of Semantic Segmentations
 
 ## Networks by architecture
 ### Semantic segmentation
